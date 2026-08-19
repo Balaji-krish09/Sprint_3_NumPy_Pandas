@@ -1,0 +1,14 @@
+[
+  {
+    "user_id":1,
+    "settings":{
+      "theme":"dark"
+    }
+  },
+  {
+    "user_id":2,
+    "settings":{
+      "theme":"light"
+    }
+  }
+]
